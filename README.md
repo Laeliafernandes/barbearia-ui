@@ -8,5 +8,6 @@ Para rodar o projeto instale o nodejs e execute o seguinte comando em um termina
 
 ```
 npm install -g @angular/cli
+npm install
 ng serve
 ```
